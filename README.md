@@ -9,14 +9,13 @@ Repositório com material utilizado no Minicurso: Introdução à Análise de Da
 
 ## Resumo
 
-A análise espacial, ou apenas análise geoespacial, é uma abordagem para aplicar a análise estatística e outras técnicas analíticas a dados que possuem um aspecto geográfico ou espacial. Essa análise normalmente é feita utilizando técnicas de renderização de mapas a partir do processamento de dados espaciais e a aplicação de métodos analíticos a conjuntos de dados terrestres ou geográficos. Este minicurso é uma introdução à análise de dados geoespaciais com Python, com foco em dados vetoriais tabulares usando GeoPandas. O conteúdo concentra-se em apresentar as diferentes bibliotecas para trabalhar com dados geoespaciais e as relações no espaço. Isso inclui a importação de dados em diferentes formatos (por exemplo, \verb!shapefile!, \verb!GeoJSON!), visualizando, combinando e organizando-os para análise, fazendo o uso de bibliotecas como pandas, geopandas, shapely, pyproj, matplotlib, cartopy, dentre outras.
+A análise espacial, ou apenas análise geoespacial, é uma abordagem para aplicar a análise estatística e outras técnicas analíticas a dados que possuem um aspecto geográfico ou espacial. Essa análise normalmente é feita utilizando técnicas de renderização de mapas a partir do processamento de dados espaciais e a aplicação de métodos analíticos a conjuntos de dados terrestres ou geográficos. Este minicurso é uma introdução à análise de dados geoespaciais com Python, com foco em dados vetoriais tabulares usando GeoPandas. O conteúdo concentra-se em apresentar as diferentes bibliotecas para trabalhar com dados geoespaciais e as relações no espaço. Isso inclui a importação de dados em diferentes formatos (por exemplo, *shapefile*, *GeoJSON*), visualizando, combinando e organizando-os para análise, fazendo o uso de bibliotecas como pandas, geopandas, shapely, pyproj, matplotlib, cartopy, dentre outras.
 
 
 O Minicurso cobrirá os seguintes tópicos, usando Jupyter notebooks e exercícios práticos com dados do mundo real:
 
 - Introdução aos dados vetoriais e GeoPandas
 - Relações e operações espaciais
-- Junções e superposições espaciais
 - Visualização de dados geoespaciais
 
 
