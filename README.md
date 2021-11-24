@@ -29,8 +29,8 @@ Este Minicurso exigirá instalações recentes de:
 - geopandas
 - folium
 - [Jupyter Notebook or Lab] (http://jupyter.org)
-- * (opcional para estudo de caso de locais de mineração) * rasterio, rasterstats
-- * (opcional para vitrine de visualização) * cartopia, geoplot, ipyleaflet
+- *(opcional para estudo de caso de locais de mineração)* rasterio, rasterstats
+- *(opcional para vitrine de visualização)* cartopia, geoplot, ipyleaflet
 
 Se você ainda não tem esses pacotes instalados, recomendamos usar o gerenciador de pacotes conda para instalar todos os requisitos (você pode instalar o miniconda ou instalar a (maior) distribuição Anaconda, encontrada em https://www.anaconda.com/download /).
 
